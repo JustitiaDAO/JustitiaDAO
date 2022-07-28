@@ -1,2 +1,3 @@
 #Projects and Contribution Tracking for Justitia DAO 0x0024a65022d227311fB5b63f787C69e6C6616C13 
 #Native Token 0xf929B6ce804b06A4cE92f5eA3b13FB1141c82368
+#Justitia DAO contribution tracking and native token JUST (on Gnosis Chain) - powered by colony.io 
