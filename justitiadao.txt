@@ -3,4 +3,4 @@
 
 #Projects and Contribution Tracking for JustitiaDAO 0x0024a65022d227311fB5b63f787C69e6C6616C13 (on Gnosis Chain - Ethereum Virtual Machine) 
 #Native Token 0xf929B6ce804b06A4cE92f5eA3b13FB1141c82368 (on Gnosis Chain - Ethereum Virtual Machine) 
-#JustitiaDAO contribution tracking and native token JUST - Justitia@colony.io: https://xdai.colony.io/colony/just
+#JustitiaDAO contribution tracking and native token JUST - Justitia@colony.io: xdai.colony.io/colony/just
